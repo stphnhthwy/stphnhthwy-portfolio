@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import linkedin from './linkedin.svg';
-import github from './github.svg';
-import twitter from './twitter.svg';
+import linkedin from './icons/linkedin.svg';
+import github from './icons/github.svg';
+import twitter from './icons/twitter.svg';
 import './App.css';
 
 class App extends Component {
