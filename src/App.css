@@ -1,3 +1,8 @@
+:root {
+  margin: 2%;
+  background-color: #F6F8FA;
+}
+
 .App {
   text-align: center;
 }
@@ -11,3 +16,13 @@
   justify-content: center;
 }
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 20px;
+}
+
+li {
+  display: inline-block;
+  padding: 32px;
+}
