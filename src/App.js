@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import linkedin from './icons/linkedin.svg';
 import github from './icons/github.svg';
 import twitter from './icons/twitter.svg';
-import './App.css';
+import './App.scss';
 
 class App extends Component {
   render() {
