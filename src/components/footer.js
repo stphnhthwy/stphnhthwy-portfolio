@@ -10,13 +10,15 @@ import '../index.scss';
 class Footer extends Component {
   render() {
     return (
-      <div className="footer">
+      <div className="footer fixed-footer">
         <div className="container-fluid">
-        <div className="row middle-xs">
-            <div className="col-xs-6 start-xs">
+        <div className="row">
+            <div className="col-xs-12 center-xs">
                 <p><img className="footer-icon" src={code} alt="made" /> with <img className="footer-icon" src={heart} alt="love" /> by stephen.</p>
             </div>
-            <div className="col-xs-6 end-xs">
+        </div>
+        <div className="row">
+        <div className="col-xs-12 center-xs">
                 <ul className="footer-list">
                     <li className="footer-list-items">
                         <a
@@ -47,6 +49,7 @@ class Footer extends Component {
                     </li>
                 </ul>
             </div>
+        
         </div>
         </div>
       </div>

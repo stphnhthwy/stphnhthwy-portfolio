@@ -23,21 +23,21 @@ class Work extends Component {
           <div className="row start-xs top-xs"><img src={leftAngle} alt="angle" /></div>
           <div className="row center-xs">
             <div className="col-xs-10 middle-xs">
-              <h1 className="title-section-style">stephen hathaway is a product designer in denver, currently sr. product designer at slalom.</h1>
+              <h1 className="title-section-style">stephen hathaway is a product designer in denver, currently sr. experience designer at slalom.</h1>
             </div>
           </div>
           <div className="row end-xs botton-xs"><img src={rightAngle} alt="angle" /></div>
         </div>
 
         {/* Work section */}
-        <div className="col-xs-10 work-section">
+        <div className="col-xs-12 work-section">
           
           {/* Open Source projects */}
           <div className="row ">
             <div className="section-header">client projects.</div>
           </div>
 
-          <Link className="post-link" to="./work/work-sample">
+          <Link className="post-link" to="./work/locked-work">
             <div className="row middle-xs post">
                 <div class="col-xs-8 start-xs">
                   <div className="post-title"><img className="post-icon" src={bok} alt="img" />bank of oklahoma.</div>
@@ -48,7 +48,7 @@ class Work extends Component {
             </div>
           </Link>
 
-          <Link className="post-link" to="./work/work-sample">
+          <Link className="post-link" to="./work/locked-work">
             <div className="row middle-xs post">
                 <div class="col-xs-8 start-xs">
                   <div className="post-title"><img className="post-icon" src={tasc} alt="img" />tasc.</div>
@@ -59,7 +59,7 @@ class Work extends Component {
             </div>
           </Link>
 
-          <Link className="post-link" to="./work/work-sample">
+          <Link className="post-link" to="./work/locked-work">
             <div className="row middle-xs post">
                 <div class="col-xs-8 start-xs">
                   <div className="post-title"><img className="post-icon" src={srs} alt="img" />srs aquiom | clearinghouse.</div>
