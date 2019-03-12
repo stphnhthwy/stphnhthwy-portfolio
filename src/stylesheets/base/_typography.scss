@@ -1,0 +1,19 @@
+$primaryFont: 'Work Sans', sans-serif;
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: $primaryFont;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  h2 {
+    font-family: $primaryFont;
+    font-weight: 500;
+    font-size: 1.750em;
+    color: $primaryBlue;
+    letter-spacing: 0.47px;
+    text-align: center;
+    line-height: 40px;
+  }

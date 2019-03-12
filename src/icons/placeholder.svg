@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>placeholder</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Project" transform="translate(-24.000000, -24.000000)" fill="#83ABEE" stroke="#0757DD">
+            <g id="Icons/Placeholder" transform="translate(24.000000, 24.000000)">
+                <rect x="0.5" y="0.5" width="31" height="31" rx="5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

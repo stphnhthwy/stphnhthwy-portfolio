@@ -1,0 +1,24 @@
+.navbar {
+    height:60px;
+}
+
+.navbar-logo {
+    color: $primaryBlue;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.navbar-list {
+    text-decoration: none;
+}
+
+.navbar-list-items {
+    display: inline;
+    padding-left: 32px;
+} 
+
+.navbar-link {
+    color: $primaryBlue;
+    text-decoration: none;
+    font-weight: 500;
+}
