@@ -1,15 +1,30 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { NavLink, Link } from 'react-router-dom';
 import '../index.scss';
 
-export default function Menu() {
+const items = [{
+  path: '/',
+  text: 'work.'
+}, {
+  path: '/about',
+  text: 'about.'
+}];
+
+export default function Nav() {
     return (
-        <div className="row middle-xs">
-          <div className="col-xs-6">stphnhthwy.</div>
-          <ul className="col-xs-6 end-xs">
-              <li><Link to="/">work.</Link></li>
-              <li><Link to="/about">about.</Link></li>
+      <div className="container-fluid">
+        <div className="row middle-xs navbar">
+          <div className="col-xs-6 start-xs">
+            <Link to="/" className="navbar-logo">stphnhthwy.</Link>
+          </div>
+          <ul className="col-xs-6 end-xs navbar-list">
+          {items.map(item => (
+            <li key={item.path} className="navbar-list-items">
+              <NavLink className="navbar-link" activeStyle={{ color: '#727079' }} exact path to={item.path}>{item.text}</NavLink>
+            </li>
+          ))}
           </ul>
         </div>
+      </div>
     );
 }

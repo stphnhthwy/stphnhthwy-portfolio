@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Icons/Work/Sketch</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons/Work/Sketch" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+        <g id="Group" transform="translate(4.000000, 5.000000)" fill-rule="nonzero">
+            <polygon id="Path-Copy" fill="#807E86" points="4.85080203 7.72879699 11.9758173 21.6745026 7.10542736e-15 7.72879699"></polygon>
+            <polygon id="Path-Copy-2" fill="#807E86" points="19.1008001 7.72879699 23.9516021 7.72879699 11.9757849 21.6745026"></polygon>
+            <polygon id="Path-Copy-3" fill="#9C9AA1" points="4.85080203 7.72879699 19.1008325 7.72879699 11.9758173 21.6745026"></polygon>
+            <g id="Group-Copy">
+                <polygon id="Path" fill="#C7C6C9" points="11.9758173 8.43769499e-15 5.2257868 0.713604061 4.85080203 7.72879188"></polygon>
+                <polygon id="Path" fill="#C7C6C9" points="11.9757805 8.43769499e-15 18.7258109 0.713604061 19.1007957 7.72879188"></polygon>
+                <polygon id="Path" fill="#9C9AA1" points="23.9516326 7.72879188 19.1008305 7.72879188 18.7257849 0.713604061"></polygon>
+                <polygon id="Path" fill="#9C9AA1" points="9.32587341e-15 7.72879188 5.2257868 0.713604061 4.85080203 7.72879188"></polygon>
+                <polygon id="Path" fill="#E3E2E4" points="11.9758173 8.43769499e-15 4.85080203 7.72879188 19.1008325 7.72879188"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

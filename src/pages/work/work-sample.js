@@ -5,7 +5,9 @@ import React, { Component } from 'react';
 class workSample extends Component {
   render() {
     return (
-      <div>Work Sample Page</div>
+      <div className="container-fluid work-template-section">
+        <div>Work Sample Page</div>
+      </div>
     );
   }
 }
