@@ -12,12 +12,12 @@ class About extends Component {
         <div className="title-section">
           <div className="row center-xs">
             <div className="col-xs-12 middle-xs">
-              <h1 className="work-title">Stephen Hathaway is a sr. experience designer at Slalom in Denver, CO where he brings 4+ years of experience to his current role. He strives to build unified user experiences across a variety of mediums by infusing design with core development principles. When he's not delighting users, you can find him on his bike, playing in Colorado's mountains, or holing up in coffee shops to read or write code.</h1>
+              <h1 className="work-title">Stephen Hathaway is a senior product designer at cognizant accelerator in boulder, co where he brings 5+ years of experience to his current role. He strives to build unified user experiences across a variety of mediums by infusing design with core development principles. When he's not delighting users, you can find him on his bike, playing in Colorado's mountains, or holing up in coffee shops to read or write code.</h1>
             </div>
           </div>
           <div className="row about-space">
           <div className="col-xs-12 center-xs">
-            <a className="email-link"                         
+            <a className="email-link"
               href="mailto:stphnhthwy@gmail.com"
               target="_blank"
               rel="noopener noreferrer">

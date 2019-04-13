@@ -23,7 +23,7 @@ class Work extends Component {
           <div className="row start-xs top-xs"><img src={leftAngle} alt="angle" /></div>
           <div className="row center-xs">
             <div className="col-xs-10 middle-xs">
-              <h1 className="title-section-style">stephen hathaway is a product designer in denver, currently sr. experience designer at slalom.</h1>
+              <h1 className="title-section-style">stephen hathaway is a senior product designer in boulder, currently at cognizant accelerator.</h1>
             </div>
           </div>
           <div className="row end-xs botton-xs"><img src={rightAngle} alt="angle" /></div>
@@ -31,7 +31,7 @@ class Work extends Component {
 
         {/* Work section */}
         <div className="col-xs-12 work-section">
-          
+
           {/* Open Source projects */}
           <div className="row ">
             <div className="section-header">client projects.</div>
@@ -70,7 +70,7 @@ class Work extends Component {
             </div>
           </Link>
 
-          <a className="post-link"                         
+          <a className="post-link"
               href="https://www.crowe.com/"
               target="_blank"
               rel="noopener noreferrer">
